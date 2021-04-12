@@ -5,8 +5,8 @@ A Basic Banking API that allows user to create acounts and transfer money betwee
 .NET 5
 <br>
 <h3>Project Description</h3>
-<p>Solution consist of 3 Project Package: API, CORE and INFRASTRUCTURE</p>
+<p>Solution consists of 3 Project Package: API, CORE and INFRASTRUCTURE</p>
 <p>API is responsible from Controllers, DTOs and Mapping.</p>
 <p>Entities (Transaction and Account) and Interfaces are components of the CORE Project.</p>
-<p>On the other hand, INFRASTRUCTURE Project controls the data access related issues.</p>
+<p>On the other hand, INFRASTRUCTURE Project controls the data access and manipulation related issues.</p>
 <p>To begin with, run project from the API folder.</p>
