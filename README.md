@@ -3,6 +3,8 @@ A Basic Banking API that allows user to create acounts and transfer money betwee
 <br>
 <h3>Technologies</h3>
 .NET 5
+<h3>Tools</h3>
+Visual Studio Code
 <br>
 <h3>Project Description</h3>
 <p>Solution consists of 3 Project Package: API, CORE and INFRASTRUCTURE</p>
